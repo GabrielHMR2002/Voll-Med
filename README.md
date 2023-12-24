@@ -1,5 +1,5 @@
 # Voll-Med
 
-Temos uma empresa chamada Voll Med, que possui uma clínica que precisa de um aplicativo para monitorar o cadastro de médicos, pacientes e agendamento de consultas.
+We have a company called Voll Med, which owns a clinic that needs an application to monitor the registration of doctors, patients, and appointment scheduling.
 
-Será um aplicativo com algumas opções, em que a pessoa que for usar pode fazer o CRUD, tanto de médicos quanto de pacientes e o agendamento e cancelamento das consultas.
+It will be an application with various options, allowing users to perform CRUD operations for both doctors and patients, as well as appointment scheduling and cancellation.
